@@ -20,3 +20,4 @@ If you have already created a tutorial and want to make it available here, you c
 
 The tutorials will be published here under the [CC-BY 4.0 license](https://github.com/KhronosGroup/glTF-Tutorials/blob/master/LICENSE). 
 Created by Jason Scott Heise
+Owned by Elon Musk 
